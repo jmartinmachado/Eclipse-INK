@@ -1,0 +1,44 @@
+FTP: Use MLST/MLSD command to list files
+===== 19/07/2011 12:14:52: Tarea 'Miniatura': SINC comenzada por User en ordenador 'CEREBRO' =====
+Miniatura: ftp://190.228.29.71/htdocs/img_pos_miniatura <-> C:\xampp\htdocs\eclipseInkV.4.0\img_pos_miniatura, SavePrevVers=30d, TmpDest, EstReq, CopyLocked, FileLinksDrill, CaseSens, Reconnect=3, ChangeLimit=10
+Borrar resultados de Análisis de las tareas que se cruzan con esta tarea: sitemap, EXTRA
+Locking folder ftp://190.228.29.71/htdocs/img_pos_miniatura for write
+Locking folder C:\xampp\htdocs\eclipseInkV.4.0\img_pos_miniatura for write
+Sync State: /1ab.png
+Sync State: /1ad.png
+Sync State: /1ae.png
+Sync State: /1af.png
+Sync State: /1c8.jpg
+Sync State: /1c9.jpg
+Sync State: /1cc.png
+Sync State: /1cd.png
+Sync State: /1ce.png
+Sync State: /1cf.png
+Sync State: /1d0.png
+Sync State: /1d1.png
+Sync State: /1d2.png
+Sync State: /1d3.png
+Sync State: /1d4.png
+Copiar Sobre 'ftp://190.228.29.71/htdocs/img_pos_miniatura/1d5.png' -> 'C:\xampp\htdocs\eclipseInkV.4.0\img_pos_miniatura\1d5.png'
+Copiar Sobre 'ftp://190.228.29.71/htdocs/img_pos_miniatura/1d6.png' -> 'C:\xampp\htdocs\eclipseInkV.4.0\img_pos_miniatura\1d6.png'
+Copiar Sobre 'ftp://190.228.29.71/htdocs/img_pos_miniatura/1d7.png' -> 'C:\xampp\htdocs\eclipseInkV.4.0\img_pos_miniatura\1d7.png'
+Copiar Sobre 'ftp://190.228.29.71/htdocs/img_pos_miniatura/1d8.png' -> 'C:\xampp\htdocs\eclipseInkV.4.0\img_pos_miniatura\1d8.png'
+Copiar Sobre 'ftp://190.228.29.71/htdocs/img_pos_miniatura/1d9.png' -> 'C:\xampp\htdocs\eclipseInkV.4.0\img_pos_miniatura\1d9.png'
+Copiar Sobre 'ftp://190.228.29.71/htdocs/img_pos_miniatura/1da.png' -> 'C:\xampp\htdocs\eclipseInkV.4.0\img_pos_miniatura\1da.png'
+Copiar Sobre 'ftp://190.228.29.71/htdocs/img_pos_miniatura/1db.png' -> 'C:\xampp\htdocs\eclipseInkV.4.0\img_pos_miniatura\1db.png'
+Copiar Sobre 'ftp://190.228.29.71/htdocs/img_pos_miniatura/1dc.png' -> 'C:\xampp\htdocs\eclipseInkV.4.0\img_pos_miniatura\1dc.png'
+Copiar Sobre 'ftp://190.228.29.71/htdocs/img_pos_miniatura/1dd.png' -> 'C:\xampp\htdocs\eclipseInkV.4.0\img_pos_miniatura\1dd.png'
+Copiar Sobre 'ftp://190.228.29.71/htdocs/img_pos_miniatura/1de.png' -> 'C:\xampp\htdocs\eclipseInkV.4.0\img_pos_miniatura\1de.png'
+Copiar Sobre 'ftp://190.228.29.71/htdocs/img_pos_miniatura/1df.png' -> 'C:\xampp\htdocs\eclipseInkV.4.0\img_pos_miniatura\1df.png'
+Copiar Nueva 'C:\xampp\htdocs\eclipseInkV.4.0\img_pos_miniatura\1e3.png' -> 'ftp://190.228.29.71/htdocs/img_pos_miniatura/1e3.png'
+Copiar Sobre 'ftp://190.228.29.71/htdocs/img_pos_miniatura/codigo.png' -> 'C:\xampp\htdocs\eclipseInkV.4.0\img_pos_miniatura\codigo.png'
+Copiar Sobre 'ftp://190.228.29.71/htdocs/img_pos_miniatura/eclipse.png' -> 'C:\xampp\htdocs\eclipseInkV.4.0\img_pos_miniatura\eclipse.png'
+Copiar Sobre 'ftp://190.228.29.71/htdocs/img_pos_miniatura/geek.png' -> 'C:\xampp\htdocs\eclipseInkV.4.0\img_pos_miniatura\geek.png'
+Copiar Sobre 'ftp://190.228.29.71/htdocs/img_pos_miniatura/index.html' -> 'C:\xampp\htdocs\eclipseInkV.4.0\img_pos_miniatura\index.html'
+Guardar archivo de estado ftp://190.228.29.71/htdocs/img_pos_miniatura/_gsdata_/_file_state._gs
+Guardar archivo de estado C:\xampp\htdocs\eclipseInkV.4.0\img_pos_miniatura\_gsdata_\_file_state._gs
+Server side changed, upload stamp file ftp://190.228.29.71/htdocs/img_pos_miniatura/_gsdata_/_insync.gsl
+Delete lock file C:\xampp\htdocs\eclipseInkV.4.0\img_pos_miniatura\_gsdata_\lock.gsl
+Elementos Sincronizados OK: 31, Errores: 0
+===== 19/07/2011 12:21:33: Sinc. Completa. Tiempo: 00:07:37, Velocidad: 4,00 KB/s =====
+

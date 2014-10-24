@@ -1,0 +1,46 @@
+RewriteEngine on 
+php_flag register_globals on
+ErrorDocument 404 http://www.eclipseink.com.ar/404.php
+ErrorDocument 403 http://www.eclipseink.com.ar/403.php
+
+RewriteRule Articulo_([0-9]+)\.html$ art.php?id=$1
+RewriteRule ^pagina([0-9]+)$ index.php?pagina=$1
+
+RewriteRule codigoASP$ ejemplo.php?tipo=Asp
+RewriteRule codigoCPP$ ejemplo.php?tipo=cpp
+RewriteRule codigoCSS$ ejemplo.php?tipo=css
+RewriteRule codigoFLASH$ ejemplo.php?tipo=fls
+RewriteRule codigoHTML$ ejemplo.php?tipo=html
+RewriteRule codigoJS$ ejemplo.php?tipo=js
+RewriteRule codigoPHP$ ejemplo.php?tipo=PHP
+RewriteRule codigoSQL$ ejemplo.php?tipo=SQL
+RewriteRule codigoVB$ ejemplo.php?tipo=VB
+RewriteRule codigoOTROS$ ejemplo.php?tipo=otros
+RewriteRule codigoDOWN$ ejemplo.php?tipo=descargas
+RewriteRule codigo\.pagina([0-9]+)$ ejemplo.php?pagina=$1
+RewriteRule codigoASP\.pagina([0-9]+)$ ejemplo.php?tipo=Asp&pagina=$1
+RewriteRule codigoCPP\.pagina([0-9]+)$ ejemplo.php?tipo=cpp&pagina=$1
+RewriteRule codigoCSS\.pagina([0-9]+)$ ejemplo.php?tipo=css&pagina=$1
+RewriteRule codigoFLASH\.pagina([0-9]+)$ ejemplo.php?tipo=fls&pagina=$1
+RewriteRule codigoHTML\.pagina([0-9]+)$ ejemplo.php?tipo=html&pagina=$1
+RewriteRule codigoJS\.pagina([0-9]+)$ ejemplo.php?tipo=js&pagina=$1
+RewriteRule codigoPHP\.pagina([0-9]+)$ ejemplo.php?tipo=PHP&pagina=$1
+RewriteRule codigoSQL\.pagina([0-9]+)$ ejemplo.php?tipo=SQL&pagina=$1
+RewriteRule codigoVB\.pagina([0-9]+)$ ejemplo.php?tipo=VB&pagina=$1
+RewriteRule codigoOTROS\.pagina([0-9]+)$ ejemplo.php?tipo=otros&pagina=$1
+RewriteRule codigoDOWN\.pagina([0-9]+)$ ejemplo.php?tipo=descargas&pagina=$1
+
+Rewriterule buscar\!(.+)$ buscar.php?keyw=$1
+RewriteRule geek\.pagina([0-9]+)$ geek.php?pagina=$1
+RewriteRule eclipseink\.pagina([0-9]+)$ eclipse.php?pagina=$1
+RewriteRule inicio$ index.php
+RewriteRule codigo$ ejemplo.php
+RewriteRule admin$ admin.php
+RewriteRule eclipseink$ eclipse.php
+RewriteRule geek$ geek.php
+RewriteRule buscar$ buscar.php
+RewriteRule politica$ politica.php
+RewriteRule legal$ legal.php
+RewriteRule licencia$ licencia.php
+RewriteRule version$ version.php
+RewriteRule comentarios$ comentarios.php

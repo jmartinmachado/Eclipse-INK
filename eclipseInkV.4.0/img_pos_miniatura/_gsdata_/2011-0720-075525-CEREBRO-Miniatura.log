@@ -1,0 +1,16 @@
+FTP: Use MLST/MLSD command to list files
+===== 20/07/2011 7:55:26: Tarea 'Miniatura': SINC comenzada por User en ordenador 'CEREBRO' =====
+Miniatura: ftp://190.228.29.71/htdocs/img_pos_miniatura <-> C:\xampp\htdocs\eclipseInkV.4.0\img_pos_miniatura, SavePrevVers=30d, TmpDest, EstReq, CopyLocked, FileLinksDrill, CaseSens, Reconnect=3, ChangeLimit=10
+Locking folder ftp://190.228.29.71/htdocs/img_pos_miniatura for write
+Locking folder C:\xampp\htdocs\eclipseInkV.4.0\img_pos_miniatura for write
+Copiar Nueva 'C:\xampp\htdocs\eclipseInkV.4.0\img_pos_miniatura\1eb.png' -> 'ftp://190.228.29.71/htdocs/img_pos_miniatura/1eb.png'
+Copiar Nueva 'C:\xampp\htdocs\eclipseInkV.4.0\img_pos_miniatura\1ec.png' -> 'ftp://190.228.29.71/htdocs/img_pos_miniatura/1ec.png'
+Copiar Nueva 'C:\xampp\htdocs\eclipseInkV.4.0\img_pos_miniatura\1ed.png' -> 'ftp://190.228.29.71/htdocs/img_pos_miniatura/1ed.png'
+Copiar Nueva 'C:\xampp\htdocs\eclipseInkV.4.0\img_pos_miniatura\1ef.png' -> 'ftp://190.228.29.71/htdocs/img_pos_miniatura/1ef.png'
+Guardar archivo de estado ftp://190.228.29.71/htdocs/img_pos_miniatura/_gsdata_/_file_state._gs
+Guardar archivo de estado C:\xampp\htdocs\eclipseInkV.4.0\img_pos_miniatura\_gsdata_\_file_state._gs
+Server side changed, upload stamp file ftp://190.228.29.71/htdocs/img_pos_miniatura/_gsdata_/_insync.gsl
+Delete lock file C:\xampp\htdocs\eclipseInkV.4.0\img_pos_miniatura\_gsdata_\lock.gsl
+Elementos Sincronizados OK: 4, Errores: 0
+===== 20/07/2011 7:56:40: Sinc. Completa. Tiempo: 00:01:15, Velocidad: 4,00 KB/s =====
+

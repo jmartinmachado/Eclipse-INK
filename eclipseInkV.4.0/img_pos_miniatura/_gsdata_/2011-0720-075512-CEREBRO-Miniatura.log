@@ -1,0 +1,11 @@
+FTP: Use MLST/MLSD command to list files
+===== 20/07/2011 7:55:14: Tarea 'Miniatura': SINC comenzada por User en ordenador 'CEREBRO' =====
+Miniatura: ftp://190.228.29.71/htdocs/img_pos_miniatura <-> C:\xampp\htdocs\eclipseInkV.4.0\img_pos_miniatura, SavePrevVers=30d, TmpDest, EstReq, CopyLocked, FileLinksDrill, CaseSens, Reconnect=3, ChangeLimit=10
+Locking folder ftp://190.228.29.71/htdocs/img_pos_miniatura for write
+State file has changed since Analyze, by another Sync. Please Analyze again:
+State file: ftp://190.228.29.71/htdocs/img_pos_miniatura/_gsdata_/_file_state._gs
+new: [size=1109 mod-time=2011-07-19 18:28:18] != 
+old: [size=0 mod-time=(null-time)]
+
+cannot delete lock file: Server says: /htdocs/img_pos_miniatura/_gsdata_/lock.gsl: No such file or directory
+

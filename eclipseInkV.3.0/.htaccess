@@ -1,0 +1,2 @@
+RewriteEngine on 
+RewriteRule Articulo_([^/]*)\.html$ art.php 

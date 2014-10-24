@@ -1,0 +1,32 @@
+2012-10-15 18:28:04: ----- 15/10/2012 18:28:04: Tarea 'Backup - Eclipse': ANÁLISIS comenzado por Periodic Timer en ordenador 'CEREBRO' (GoodSync v 9.3.4.5 x64 on Windows 7) -----
+2012-10-15 18:28:04: Backup - Eclipse: C:\xampp\htdocs\eclipseInkV.4.0 =forced-PropDels=> C:\Users\Juan Martín Machado\Google Drive\Backup\Dropbox\Eclipse INK, SavePrevVers, CleanupPrevVers=30d, CleanupOldGens=24m, TmpDest, EstReq, CopyLocked, DetectMovesAndRenames, DetectFolderMoves, FileLinksDrill, Reconnect=3, CopyCreateTime
+2012-10-15 18:28:04: Excluir licens*.rfo|cache.rfo|mru.rfo|mpp*.rfo|/System Volume Information|Thumbs.db|.DS_Store|RoboForm Online Account.rfp|name *._gstmp 
+2012-10-15 18:28:04: Locking folder C:\xampp\htdocs\eclipseInkV.4.0 for write
+2012-10-15 18:28:04: izquierda: Leer archivo de estado C:\xampp\htdocs\eclipseInkV.4.0\_gsdata_\_file_state._gs
+2012-10-15 18:28:04: Locking folder C:\xampp\htdocs\eclipseInkV.4.0\img_pos for write
+2012-10-15 18:28:04: izquierda: Leer Archivo de Estado C:\xampp\htdocs\eclipseInkV.4.0\img_pos y fusionarlo con el estado raíz
+2012-10-15 18:28:04: Locking folder C:\xampp\htdocs\eclipseInkV.4.0\img_pos_miniatura for write
+2012-10-15 18:28:04: izquierda: Leer Archivo de Estado C:\xampp\htdocs\eclipseInkV.4.0\img_pos_miniatura y fusionarlo con el estado raíz
+2012-10-15 18:28:04: izquierda: Archivos: 577 (excluidos 0). Carpetas: 10 (excluidas 3). C: NTFS, Libre: 108 GB, Total: 146 GB
+2012-10-15 18:28:04: Locking folder C:\Users\Juan Martín Machado\Google Drive\Backup\Dropbox\Eclipse INK for write
+2012-10-15 18:28:04: derecha: Leer archivo de estado C:\Users\Juan Martín Machado\Google Drive\Backup\Dropbox\Eclipse INK\_gsdata_\_file_state._gs
+2012-10-15 18:28:04: derecha: Archivos: 577 (excluidos 0). Carpetas: 10 (excluidas 1). C: NTFS, Libre: 108 GB, Total: 146 GB
+2012-10-15 18:28:04: En el disco file:///C: el espacio necesario para sincronizar es 0 bytes, tiene 108 GB
+2012-10-15 18:28:04: En el disco file:///C: el espacio necesario para sincronizar es 0 bytes, tiene 108 GB
+2012-10-15 18:28:04: Cambios: 0, Conflictos: 0, TiempoCopia: 0, EstadoCopia: 0/2, Errores: 0
+2012-10-15 18:28:04: All Nodes (Live+Dead): 620
+2012-10-15 18:28:04: ----- 15/10/2012 18:28:04: Análisis Completado. Tiempo 00:00:01, Velocidad: 590 archivo/s -----
+2012-10-15 18:28:04: ===== 15/10/2012 18:28:04: Tarea 'Backup - Eclipse': SINC comenzada por Periodic Timer en ordenador 'CEREBRO' =====
+2012-10-15 18:28:04: Backup - Eclipse: C:\xampp\htdocs\eclipseInkV.4.0 =forced-PropDels=> C:\Users\Juan Martín Machado\Google Drive\Backup\Dropbox\Eclipse INK, SavePrevVers, CleanupPrevVers=30d, CleanupOldGens=24m, TmpDest, EstReq, CopyLocked, DetectMovesAndRenames, DetectFolderMoves, FileLinksDrill, Reconnect=3, CopyCreateTime
+2012-10-15 18:28:04: Sync State Merge: /img_pos/360_big.jpg
+2012-10-15 18:28:04: Sync State Merge: /img_pos/flashwide.jpg
+2012-10-15 18:28:04: Guardar archivo de estado C:\xampp\htdocs\eclipseInkV.4.0\img_pos\_gsdata_\_file_state_v4._gs
+2012-10-15 18:28:04: Guardar archivo de estado C:\xampp\htdocs\eclipseInkV.4.0\_gsdata_\_file_state_v4._gs
+2012-10-15 18:28:04: Guardar archivo de estado C:\Users\Juan Martín Machado\Google Drive\Backup\Dropbox\Eclipse INK\_gsdata_\_file_state_v4._gs
+2012-10-15 18:28:04: Elementos Sincronizados OK: 2, Errores: 0
+2012-10-15 18:28:04: ===== 15/10/2012 18:28:04: Sinc. Completa. Tiempo: 00:00:00, Velocidad:  =====
+2012-10-15 18:28:04: Unlocking folder (set insync file) C:\xampp\htdocs\eclipseInkV.4.0\_gsdata_\_insync_v4.gsl
+2012-10-15 18:28:04: Unlocking folder (set insync file) C:\xampp\htdocs\eclipseInkV.4.0\img_pos\_gsdata_\_insync_v4.gsl
+2012-10-15 18:28:04: Unlocking folder (set insync file) C:\xampp\htdocs\eclipseInkV.4.0\img_pos_miniatura\_gsdata_\_insync_v4.gsl
+2012-10-15 18:28:04: Unlocking folder (set insync file) C:\Users\Juan Martín Machado\Google Drive\Backup\Dropbox\Eclipse INK\_gsdata_\_insync_v4.gsl
+2012-10-15 18:28:04: 

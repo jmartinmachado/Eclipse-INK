@@ -1,0 +1,31 @@
+<?php
+include("jpgraph/jpgraph.php");
+include("jpgraph/jpgraph_pie.php");
+include("FDE.php");
+$INF_1=get_visitas("Inicio");
+$INF_2=get_visitas("Ejemplos");
+$INF_3=get_visitas("Politicas");
+$INF_4=get_visitas("Trabajos");
+$INF_5=get_visitas("Webmaster");
+$data=array($INF_1["H_totales"],$INF_2["H_totales"],$INF_3["H_totales"],$INF_4["H_totales"],$INF_5["H_totales"]);
+$graph=new PieGraph(500,400,'auto');
+$graph->SetFrame(true);
+$graph->SetShadow();
+$graph->title->Set("Porcentaje de visitas a \n las Paginas Centrales");
+$graph->title->SetFont(FF_ARIAL,FS_BOLD,15);
+$graph->title->SetMargin(2);
+$p1=new PiePlotC($data);
+$p1->SetSize(0.30);
+$p1->value->SetFont(FF_ARIAL,FS_BOLD,8);
+$p1->value->SetColor('black');
+$p1->value->Show();
+$p1->SetMidColor('yellow');
+$p1->SetLabelType(PIE_VALUE_PER);
+$lbl=array("Inicio","Ejemplos","Politicas","Trabajos","Webmaster");
+$p1->SetLegends(array("Inicio %.1f%%","Ejemplos %.1f%%","Politicas %.1f%%","Trabajos %.1f%%","Webmaster %.1f%%"));
+$p1->SetLabels($lbl);
+$p1->SetShadow();
+$p1->ExplodeAll(15);
+$graph->Add($p1);
+$graph->Stroke();
+?>

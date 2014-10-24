@@ -1,0 +1,25 @@
+FTP: Use MLST/MLSD command to list files
+----- 21/07/2011 10:33:34: Tarea 'Miniatura': ANÁLISIS comenzado por Periodic Timer en ordenador 'CEREBRO' (GoodSync v Beta 8.7.5.3 on Windows 7) -----
+Miniatura: ftp://190.228.29.71/htdocs/img_pos_miniatura <-> C:\xampp\htdocs\eclipseInkV.4.0\img_pos_miniatura, SavePrevVers=30d, TmpDest, EstReq, CopyLocked, FileLinksDrill, CaseSens, Reconnect=3, ChangeLimit=10
+Excluir Ocultos, Excluir Sistema, Excluir licens*.rfo|cache.rfo|mru.rfo|mpp*.rfo|RoboForm Online Account.rfp|/System Volume Information|Thumbs.db|.DS_Store 
+izquierda: Leer archivo de estado ftp://190.228.29.71/htdocs/img_pos_miniatura/_gsdata_/_file_state._gs
+Locking folder ftp://190.228.29.71/htdocs/img_pos_miniatura for write
+izquierda: Archivos: 40 (excluidos 0). Carpetas: 0 (excluidas 1). FTP: POWER FTP
+derecha: Leer archivo de estado C:\xampp\htdocs\eclipseInkV.4.0\img_pos_miniatura\_gsdata_\_file_state._gs
+Locking folder C:\xampp\htdocs\eclipseInkV.4.0\img_pos_miniatura for write
+derecha: Archivos: 41 (excluidos 0). Carpetas: 0 (excluidas 1). C: NTFS, Libre: 10,7 GB, Total: 64,2 GB
+Cambios: 1, Conflictos: 0, TiempoCopia: 0, EstadoCopia: 0, Errores: 0
+Right to Left: Copy File: 1 
+----- 21/07/2011 10:33:37: Análisis Completado. Tiempo 00:00:07, Velocidad: 6 archivo/s -----
+FTP: Use MLST/MLSD command to list files
+===== 21/07/2011 10:33:39: Tarea 'Miniatura': SINC comenzada por Periodic Timer en ordenador 'CEREBRO' =====
+Miniatura: ftp://190.228.29.71/htdocs/img_pos_miniatura <-> C:\xampp\htdocs\eclipseInkV.4.0\img_pos_miniatura, SavePrevVers=30d, TmpDest, EstReq, CopyLocked, FileLinksDrill, CaseSens, Reconnect=3, ChangeLimit=10
+Fraction of files changed is low enough to perform Auto Sync: 2% (1 / 42) < 10%
+Copiar Nueva 'C:\xampp\htdocs\eclipseInkV.4.0\img_pos_miniatura\1f5.png' -> 'ftp://190.228.29.71/htdocs/img_pos_miniatura/1f5.png'
+Guardar archivo de estado ftp://190.228.29.71/htdocs/img_pos_miniatura/_gsdata_/_file_state._gs
+Guardar archivo de estado C:\xampp\htdocs\eclipseInkV.4.0\img_pos_miniatura\_gsdata_\_file_state._gs
+Server side changed, upload stamp file ftp://190.228.29.71/htdocs/img_pos_miniatura/_gsdata_/_insync.gsl
+Delete lock file C:\xampp\htdocs\eclipseInkV.4.0\img_pos_miniatura\_gsdata_\lock.gsl
+Elementos Sincronizados OK: 1, Errores: 0
+===== 21/07/2011 10:33:51: Sinc. Completa. Tiempo: 00:00:14, Velocidad: 0 bytes/s =====
+
